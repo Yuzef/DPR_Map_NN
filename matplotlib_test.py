@@ -20,6 +20,7 @@ plt.title('Interesting graph\nCheck it out')  # Title of our graph
 plt.legend()  # to use it, you should add 'label' argument to 'plot' function
 
 plt.show()  # to take it from the background
+#
 
 
 
